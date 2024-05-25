@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625710191558",
+    "project_id": "rma-lv2-65b32",
+    "storage_bucket": "rma-lv2-65b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625710191558:android:b95d3cc03ec4fe0640d8c7",
+        "android_client_info": {
+          "package_name": "rma.lv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAC5Ac4j9FIPNhKc-GpnrLE0sgvtheFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
